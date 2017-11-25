@@ -1,0 +1,8 @@
+﻿{
+  "animals": {
+    "Elephant": { "hints": [ "tail", "trumpets", "grey" ] },
+    "Lion": { "hints": [ "mane", "roars", "yello" ] },
+    "Dog": { "hints": [ "bark", "domestic", "yellow" ] }
+  }
+    
+}
